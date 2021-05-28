@@ -101,7 +101,7 @@ font-family: Montserrat, Arial, sans-serif;
 
 h1 {
 letter-spacing: 0.125rem;
-font-family: Josefinslab, Arial, sans-serif;
+font-family: Josefinslab, Arial, serif;
 font-size: 3.75rem;
 margin: 1.125rem;
 text-align: center;
@@ -109,7 +109,7 @@ text-align: center;
 
 h2 {
 letter-spacing: 0.125rem;
-font-family: Josefinslab, Arial, sans-serif;
+font-family: Josefinslab, Arial, serif;
 font-size: 1.5rem;
 }
 
