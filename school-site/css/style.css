@@ -80,16 +80,16 @@ header, footer {
 /* Imported Typfaces */
 
 @font-face {
-font-family:Josefinslab;
-src: url(TyloskyD.github.io/school-site/fonts/josefinslab-regular.tff) format('truetype');
-font-weight:normal;
-font-style:normal;
+font-family: Josefinslab;
+src: url(../fonts/josefinslab-regular.tff) format('truetype');
+font-weight: normal;
+font-style: normal;
 }
 @font-face {
-font-family:Montserrat;
-src: url(TyloskyD.github.io/school-site/fonts/montserrat-regular.tff) format('truetype');
-font-weight:normal;
-font-style:normal;
+font-family: Montserrat;
+src: url(../fonts/montserrat-regular.tff) format('truetype');
+font-weight: normal;
+font-style: normal;
 }
 
 
