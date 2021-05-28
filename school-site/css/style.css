@@ -190,7 +190,9 @@ line-height: 3;
 text-align: center;
 font-size: 1.125rem;
 margin-bottom: 1.5rem;
-border: solid; color: #33658A; width: 0.0625rem;
+border-style: solid; 
+border-color: #33658A; 
+border-width: 0.0625rem;
 }
 
 nav a:focus,
