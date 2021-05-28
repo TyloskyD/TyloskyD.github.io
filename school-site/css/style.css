@@ -81,13 +81,15 @@ header, footer {
 
 @font-face {
 font-family: Josefinslab;
-src: url(../fonts/josefinslab-regular.tff) format('truetype');
+src: url(../fonts/josefinslab-regular.tff) format('truetype'),
+url(https://github.com/TyloskyD/TyloskyD.github.io/blob/main/school-site/fonts/josefinslab-regular.ttf);
 font-weight: normal;
 font-style: normal;
 }
 @font-face {
 font-family: Montserrat;
-src: url(../fonts/montserrat-regular.tff) format('truetype');
+src: url(../fonts/montserrat-regular.tff) format('truetype'),
+url(https://github.com/TyloskyD/TyloskyD.github.io/blob/main/school-site/fonts/montserrat-regular.ttf);
 font-weight: normal;
 font-style: normal;
 }
