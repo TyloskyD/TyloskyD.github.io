@@ -1,0 +1,95 @@
+/* TO GET AN IDEA OF THE CSS YOU WILL LIKELY BE USING, SEE THE LISTS BELOW. */
+
+        /* 
+        
+        Spacing 
+
+            - padding (shorthand and/or specific properties like padding-bottom, etc.)
+
+            - margin, (shorthand and/or specific properties like margin-top, etc.)
+
+            - letter-spacing, word-spacing, line-height
+
+            - width, max-width, min-width
+            - height, max-height, min-height
+
+        Typography 
+
+            - font-family, font-size, font-style, font-weight
+
+            - text-decoration, text-align
+
+            - color
+
+            - text-shadow, text-transform
+
+        Box, Layout and Border 
+
+            - border (shorthand and/or specific properties like border-top, border-bottom-radius, border-width, etc.)
+
+            - box-shadow
+
+            - display, float, align-items, align-content
+
+            - grid-template-columns, grid-column-gap
+
+            - transform
+
+        Other
+
+            - :nth()-child (to target specific child elements)
+
+            - :focus, :hover, :active (to target link states)
+
+            - @font-face or @import (to import typefaces)
+
+        */
+
+
+/* ------ START WRITING YOUR CODE BELOW ------ */
+
+
+.header{
+text-align: center;
+transform: rotate(-20 deg);
+position: relative;
+font-size: 3.5rem;
+}
+.highlight{
+  text-color:solid 706969;
+    padding: 1rem;
+    background-color: 991919;
+    border-radius: 1rem 3.5rem;
+    box-shadow: black;
+    box-shadow: 0.3rem 0.6rem;
+}
+nav{
+border-bottom: 1px solid black;
+border-top: 1px solid black;
+width: 100%;
+float: left;
+margin: 0 0 1em 0;
+padding: 0;
+background-color: #f2f2f2;
+}
+article{
+float: left;
+width: 75%;
+}
+aside{
+width: 25%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
